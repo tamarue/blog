@@ -1,6 +1,17 @@
+---
+title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+draft: false
+tags:
+  - 
+---
+ 
+
+
 # Meyer, Michael - Albert Camus <br> Die Freiheit leben
 
 Carl Hanser Verlag München 2013
+
+
 
 ## Exzerpt
 

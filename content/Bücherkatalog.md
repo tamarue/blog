@@ -1,0 +1,786 @@
+---
+creation date: 2024-06-01 12:40
+tags:
+  - lesen
+---
+#quick
+
+# BK 01
+
+- Pessoa, Fernando  Poesia Inglesa 
+- Dickens, Charles   Die Pickwickier - Winkler Weltliteratur  
+- Fontane, Theodor  - Der Stechlin - Reclam
+- Hesse, Hermann  - Eine Bibliothek der Weltliteratur
+- Blixen, Tania  - Afrika - Dunkel Lockende Welt
+- Kafka, Franz  - Tagebücher 1910 - 1923
+- Huxley, Aldous  - Nach vielen Sommern
+- Feldenkrais, Moshe  - Bewußtsein durch Bewegung
+- Wehr, Gerhard  - Karlfried Graf Dürckheim - Ein Leben im Zeichen der Wandlung 
+- Steinbeck, John  - Tagebuch eines Romans
+- Huxley, Aldous  - Kontrapunkt des Lebens
+- Kafka, Franz  - Die Romane: Der Verschollene (Amerika); Der Proceß; Das Schloß
+- Fauliot, Pascal  - Die Kunst zu siegen ohne zu kämpfen
+- Hesse, Hermann  - Die Romane
+- Hesse, Hermann  - Die Erzählungen
+- Hesse, Hermann  - Mit der Reife wird man jünger
+- Fröhlich, Anne Marie  - Engel - Text aus der Weltliteratur
+- Mercier, Pascal  - Nachtzug nach Lissabon - btb Taschenbuch
+- Fromm, Erich  - Die Kunst des Liebens
+- Kant, Immanuel  - Brevier
+- Salinger, J.D.  - The Catcher in the Rye
+- Rilke, Rainer Maria  - Die Aufzeichnung des Malte Laurids Brigge - Kommentierte Ausgabe Reclam
+- Forster, Edward M.  - Wiedersehen in Howards End
+- Huxley, Aldous  - Geblendet in Gaza
+- Becker, Kurt E.  - Anthroposophie - Revolution von innen; Leitlinie im Denken Rudolf Steiners
+- DVD  - Wie im Himmel
+- DVD  - Illuminati
+- DVD  - Monty Python - Sinn des Lebens
+- DVD  - Wim Wenders - Paris Texas
+- DVD  - Willkommen bei den Hartmanns
+- DVD  - Neil Young - Live Rust
+- DVD  - Collateral
+
+# BK 02
+
+ - Cervantes  - Don Quijote; Könemann; 2 Bände
+ - Goethe  - Italienische Reise; C.H. Beck
+ - Goethe  - Faust; C.H. Beck
+ - Goethe  - Gedichte; C.H. Beck
+ - Poe, Edgar Allan  - Der Bericht des A. Gordon Pym und andere Erzählungen; Könemann
+ - Goethe  - Dichtung und Wahrheit; Könemann; 2 Bände
+ - Die Welt  - Weltaltlas kompakt
+ - Borchert, Wolfgang  - Das Gesamtwerk
+ - Rilke, Rainer Maria  - Die Weise von Leben und Tod des Cornets Christoph Rilke; Insel Bücherei Nr.1
+ - Rilke, Rainer Maria  - Briefe an einen jungen Dichter; Insel Bücherei Nr. 406
+ - Zweig, Stefan  - Tagebücher; S. Fischer
+ - Marcus, Greil  - When the Rough God Goes Riding - Über Van Morrison
+ - Seemann, Annette  - Aus Weimar in alle Welt - Die Bauhausmeister und ihr Wirkung
+ - Wilde, Oscar  - Das Bild des Dorian Grey; Haffmans bei Zweitausendeins
+ - Wilde, Oscar  - Ernst und sein tiefere Bedeutung und andere Komödien; Haffmans bei Zweitausendeins
+ - Wilde, Oscar  - Salome und Brief aus dem Gefängnis; Haffmans bei Zweitausendeins
+ - Baedecker  - Lissabon - Reiseführer
+ - Kafka, Franz  - Sämtliche Erzählungen; Fischer Taschenbücher
+ - Biat  - Aus dem Nebel der Geschichte
+ - Smith, Patti  - Babel - Lieder und Texte zweisprachig
+ - Lambrou, Andreas  - Füllfederhalter
+ - Nizon, Paul  - Die Erstausgabe der Gefühle - Journal 1961-1972
+ - Rilke, Rainer Maria  - Werke 3 - Gedichte und Übertragungen 1/2
+ - Rilke, Rainer Maria  - Werke 4 - Gedichte und Übertragungen 2/2
+ - Rilke, Rainer Maria  - Werke 6 - Prosa
+ - Beck, Ulrich; Beck-Gernsheim, Elisabeth  - Das ganz normale Chaos der Liebe
+ - Fan, Chaoyang; Hummelsberger, Josef; Wislsperger, Gerlinde  - Tuina - Eine altchinesische manuelle Therapie neu entdeckt
+ - Reid, Howard  - Wege zur Harmonie - T’ai Chi chuan - Chi Gong - Hsing I - Pa Kua
+ - Miehle, Wolfgang  - Entzündliches Gelenkrheuma
+ - O’ Reilly  - Latex kurz & Gut; 2x
+ - Meyers Kleines Lexikon  - Literatur
+ - Brauneck, Manfred (Hrsg.  - Autorenlexikon deutschsprachiger Literatur des 20. Jahrhunderts
+ - Wildish, Paul  - Das große Buch des Ch’i
+ - Schlüpfer, Franziska (Hrsg.)  - Reise ins Tessin - Kulturkompass fürs Handgepäck 
+ - Maaßen, Boje  - Naturerleben
+ - Homfeldt, Hans Günther (Hrsg.)  - Anleitungsbuch zur Gesundheitsbildung
+ - Peisker, Carl Heinz  - Zürcher Evangelien Synopse
+ - Novalis  - Gedichte/Lehrlinge zu Sais (Reclam)
+ - Novalis  - Fragmente und Studien/Die Christenheit oder Europa (Reclam)
+ - Buddha  - Reden des Buddhas (Reclam)
+ - Rothmann, Kurt  - Kleine Geschichte der Weltliteratur (Reclam)
+ - Wiehl, Reiner (Hrsg.)  - Geschichte der Philosophie in Text und Darstellung - 20. Jahrhundert (Reclam)
+ - Bahr, Ehrhard  - Erläuterungen und Dokumente - Johann Wolfgang Goethe - Wilhelm Meisters Lehrjahre (Reclam)
+ - DVD  - Fight Club
+ - DVD  - Sin City
+ - DVD  - King Crimson - Eyes Wide Open
+
+# BK 03
+
+ - Lempert, Wolfgang  - Berufliche Bildung als Beitrag zur gesellschaftlichen Demokratisierung  -
+ - Lempert, Wolfgang  - Leistungsprinzip und Emanzipation  -
+ - Berghaus, Margot  - Luhmann leicht gemacht  -
+ - Niemeyer, Beatrix  - Neue Lernkulturen in Europa?  -
+ - Bolder, Axel; Dobischat  - Eigen-Sinn und Widerstand  -
+ - Lessing, Hans-Ulrich  - Wilhelm Dilthey  -
+ - Von Hentig, Hartmut  - Bildung  -
+ - Von Hentig, Hartmut  - Ach, die Werte!  -
+ - Arnold, Rolf  - Berufsbildung - Annäherungen an eine Evolutionäre Berufspädagogik
+ - Kriz, Jürgen  - Grundkonzepte der Psychotherapie  -
+ - Schulz, Wolfgang  - Lebensgeschichten und Lernwege  -
+ - Rittelmeyer, Christian; Parmentier, Michael  - Einführung in die Pädagogische Hermeneutik  -
+ - Dörpinghaus, Andreas; Poenitsch, Andreas; Wigger, Lothar  - Einführung in die Theorie der Bildung  -
+ - Fatke, Reinhard; Merkens, Hans  - Bildung über die Lebenszeit  -
+ - Stratmann, Karlwilhelm; Bartel, Werner;  - Berufspädagogik - Ansätze zu einer Grundlegung und Differenzierung  -
+ - Krüger, Heinz-Hermann; Marotzki, Winfried  - Erziehungswissenschaftliche Biographieforschung  -
+ - Antonovsky, Aaron  - Salutogenese - Zur Entmystifizierung der Gesundheit  -
+ - Reble, Albert  - Geschichte der Pädagogik  -
+ - Stütz, Gisela  - Berufspädagogik unter ideologischen Aspekt  -
+ - Schwingel, Markus  - Pierre Bourdieu - Zur Einführung  -
+ - Blankertz, Herwig  - Berufsbildung und Utilitarismus (Ausdruck)  -
+ - Bollenbeck, Georg  - Bildung und Kultur (Ausdruck)  -
+ - Fuhrmann, Manfred  - Bildung - Europas kulturelle Identität (Reclam)  -
+ - Litt, Theodor  - Pädagogische Schriften - Eine Auswahl ab 1927 ; Besorgt von Albert Reble  -
+ - Erpenbeck, John; Heyse, Volker  - Die Kompetenzbiographie - Wege der Kompetenzentwicklung  -
+ - Rost, Friedrich  - Lern- und Arbeitstechniken für das Studium  -
+ - Lange, Ute; Harney, Klaus u.a.(Hrsg.)  - Studienbuch der Theorien der beruflichen Bildung  -
+ - Keller, Gustav  - Das Klagelied vom schlechten Schüler  -
+ - Arnold, Rolf; Lipsmeier, Antonius; Ott, Bernd  - Berufspädagogik kompakt  -
+ - Willke; Gerhard  - Die Zukunft unserer Arbeit  -
+ - Lange, Ute; Harney, Klaus u.a.(Hrsg.)  - Studienbuch Berufliche Sozialisation  -
+
+# BK 04
+
+- Koller, Hans-Christoph  - Bildungs anders denken - Einführung in die Theorie transformatorischer Bildungsprozesse (Ausdruck)  -
+- Kurtz, Thomas  - Die Berufsform der Gesellschaft (Ausdruck)  -
+- Brunner, Hans u.a.  - Leitfaden zur Bachelor- und Masterarbeit  -
+- Böhss, Marco u.a.  - Weiterentwicklung der Berufsschule im Kontext der Regionalen Berufsbildungszentren (RBZ) und der Berufsbildenden Schulen des Landes Schleswig-Holstein; Abschlussbericht des Forschungsbericht des biat  -
+- Becker, Rolf ; Lauterbach, Wolfgang (Hrsg.)  - Bildung als Privileg - Erklärungen und Befunde zu den Ursachen der Bildungsungleichheit (Ausdruck)  -
+- Huisinga, Richard  - Bildung und Zivilisation (Ausdruck)  -
+- Wolf, Stefan  - Berufsbildung und Kultur - Ein Beitrag zur Theorie der Berufsbildung in der Entwicklungszusammenarbeit (Ausdruck)  -
+- Weber, Max  - Die protestantische Ethik und der Geist des Kapitalismus  -
+- Girarini, Orio; Liedtke, Patrick M.  - Wie wir arbeiten werden - Der neue Bericht an den Club of Rome  -
+- Aries, Philippe  - Geschichte der Kindheit  -
+- Kade, Jochen; Seitter, Wolfgang - Lebenslanges Lernen. Mögliche Bildungswelten
+- Rifkin, Jeremy  - Das Ende der Arbeit und ihre Zukunft  -
+- Pahl; Herkner  - Handbuch Berufsforschung  -
+- Pahl  - Lexikon Berufsbildung  -
+- Spranger, Eduard  - Psychologie des Jugendalters  -
+- Senge, Peter M.; Die fünfte Disziplin  -
+- Günther, Karsten  - Linux Kompakt Referenz  -
+- Baedecker  - Tessin
+- Hennig, Christoph  - Cinque Terre
+- Reise Know-How  - Toskana
+- Engruber, Ruth  - Gender Mainstreaming und Jugendsozialarbeit
+- Engelfried, Constance  - Männlichkeiten
+- Böhnisch, Lothar; Winter, Reinhard  - Männliche Sozialisation
+- Schmidbauer, Wolfgang  - Die Angst vor Nähe
+- Wondrak, Joachim  - Aspekte von Theaterarbeit mit unfreiwilligen Subkulturen
+- DVD - Kompetenzagenturen  -
+- DVD - U2 - Rattle and Hum  -
+- DVD - Wim Wenders - Bis ans Ende der Welt  -
+- DVD - David Lynch - Blue Velvet  -
+- CD - Haden, Charlie - Haunted Heart  -
+- CD - Krishna Das - Live in Europe  -
+- CD - Paduart, Ivan - Enivrance  -
+- CD - Wittmer, Denison - The Ones Who Wait  -
+- CD - Metzger, Christiane - Die Firma - Deutsche Gebärdensprache  -
+- CD - Haden, Charlie - Nocturne  -
+- CD - Cold Chisel - All for You - The Best of  -
+
+# BK 05
+
+ - Kofler, Michael  - Linux - Installation, Konfiguration, Anwendung  -
+ - Ripfel, Franz; Meyer, Melanie; Höppner, Irene  - Das TYPO3 Profihandbuch  -
+ - Frisch, Max  - Gesammelte Werke  -
+ - Neuss, Wolfgang  - Der Totale Neuss  -
+ - Sandie, Scott  - Sleeping Rust: The Unreleased Songs of Neil Young  -
+ - Einarson, John  - Neil Young - The Canadian Years  -
+ - Cogan, Visnja  - U2 - An Irish Phenomen  -
+ - U2   - Rattle and Hum  -
+ - WDR  - 10 Jahre Rockpalast  -
+ - Dalton, David  - The Rolling Stones - Die ersten 20 Jahre  -
+ - Hilburn, Robert  - Springsteen  -
+ - Waits, Tom  - Anthology  -
+ - Clapton, Eric  - Mein Leben  -
+ - Rolling Stone  - Neil Young - Fakten, Artikel, Interviews aus dem Rolling Stone  -
+ - Monty Python  - Fliegender Zirkus  -
+ - Bly, Robert  - Eisenhans  -
+ - Pepenoe, Joshua  - Schüler in Summerhill  -
+ - Deyries, Bernard u.a.  - Geschichte der Musik in Comics  -
+ - Schmidt-Joos/Graves  - Rock Lexikon  -
+ - Young, Scott  - Neil and Me - The Neil Young Story  -
+ - Charone, Barbara  - Keith Richards und die Rolling Stones  -
+
+# BK 06
+
+ - Skarmeta, Antonio  - Mit brennender Geduld  -
+ - Popp, Fritz-Albert  - Die Botschaft der Nahrung  -
+ - Zweig, Stefan  - Das Geheimnis des künstlerischen Schaffens  -
+ - Benn, Gottfried  - Das Hörwerk 1928-56  -
+ - Schneider, Reinhold  - Lektüre für Minuten  -
+ - Tucholsky, Kurt  - Schloß Gripsholm  -
+ - Bucay, Jorge  - Komm, ich erzähl Dir eine Geschichte  -
+ - Herrera, Hayden  - Frida Kahlo - Ein leidenschaftliches Leben  -
+ - Thoreau, Henry David  - Walden  -
+ - Krakauer, Jon  - In die Wildnis  -
+ - Epikur  - Philosophie der Freude  -
+ - Reclams Konzertführer 
+ - Safranski, Rüdiger  - Goethe - Kunstwerk des Lebens  -
+ -   10.000 Fremdwörter  -
+ - Schmidt, Manfred  - Nick Knatterton  -
+ - Merian  - Einmal im Leben  -
+ - Unseld, Siegfried  - Hesse. Werk und Wirkungsgeschichte  -
+ - Michels, Volker  - Hesse. Sein Leben in Bildern und Texten  -
+ - Nietzsche, Friedrich  - Wo du stehst, grab tief hinein - Ein Nietzsche-Brevier  -
+ - Wallmann, Jürgen P.  - Das Gottfried Benn Brevier  -
+ - Zweig, Stefan  - Balzac  -
+ - Schmale, Wolfgang  - Geschichte der Männlichkeit in Europa (1450-2000)  -
+ - Monty Python  - Flying Circus I und II  -
+ - Turner, Steve  - Van Morrison - Too Late to Stop Now  -
+
+# BK 07
+
+ - Dickens, Charles  - Oliver Twist  -
+ - Schumacher, Theo  - Aldous Huxley  -
+ - Kästner, Erich  - Drei Männer im Schnee  -
+ - Tucholsky, Kurt  - Rheinsberg - Ein Bilderbuch für Verliebte  -
+ - Bonhoefer, Dietrich  - Widerstand und Ergebung  -
+ - Garcia Marquez, Gabriel  - Hundert Jahre Einsamkeit  -
+ - Garcia Marquez, Gabriel  - Die Liebe in den Zeiten der Cholera  -
+ - Franke, Rainer; Schlieske, Ingrid  - Klopfen Sie sich frei - Meridian-Energie-Techniken M.E.T.  -
+ - Huxley, Aldous  - Moksha  -
+ -  Die Bibel  
+ - Mercier, Pascal  - Nachtzug nach Lissabon  -
+ - Irving, John  - Letzte Nacht in Twisted River  -
+ - Emoto, Masaru  - Wasser und die Kraft des Gebets  -
+ - Rappenecker, Wilfried  - YuSen - Sprudelnder Quell - Shiatsu für Anfänger  -
+ - Campbell, Joseph  - Schöpferische Mythologie - Die Masken Gottes  -
+ - Iding, Doris  - Der kleine Achtsamkeitscoach  -
+ - Goethe  - Erzählt sein Leben - Zeugnis und Selbstzeugnis  -
+ - Bauregger, Heinrich  - Tessin - Rother Wanderführer  -
+ - De Saint-Exupery, Antoine  - Nachtflug  -
+ - Parker, Dorothy  - New Yorker Geschichten  -
+ - Novalis  - Heinrich von Ofterdingen  -
+ - Manesse  - Schweizer Erzähler  -
+ - De Maupassant, Guy  - Weitere Fünfzig Novellen (Manesse)  -
+ - Goldt, Max  - Vom Zauber des seitlich dran Vorbeigehens  -
+ - Sanders, Brigitte  - Hausputz für den Körper  -
+ - Hellmiß, Margot  - Mein Entgiftungsprogramm  -
+ - Balzac, Honore de  - Die Frau von dreißig Jahren (Manesse)  -
+ - La Fontaine  - Hundert Fabeln (Manesse)  -
+ - Wiggershaus, Rolf  - Jürgen Habermas (rororo Monografien)  -
+ - Hoeg, Peter  - Der Plan von der Abschaffung des Dunkels  -
+ - Sartre, Jean-Paul  - Die Wörter - Autobiographische Schriften  -
+ - Kantzenbach, Friedrich Wilhelm  - Herder (rororo Bildmonografien)  -
+ - Horkheimer/Adorno  - Dialektik der Aufklärung  -
+ - Pessoa, Fernando  - Mein Lissabon  -
+ - Brecht, Bertolt  - Stücke
+ - Bloom, Harold  - Die Kunst der Lektüre  - 210724 
+ - Le Guin, Ursula K.  - Das Wunschtal
+ - Habeck, Robert  - Wer wagt, beginnt
+ - Loriot  - Männer und Frauen passen einfach nicht zusammen
+ - de Saint-Exupery, Antoine - Gesammelte Schriften in drei Bänden
+
+# BK 08
+
+ - Ormonde, Rene  - Geheimnis Frau
+ - Austen, Jane  - Mansfield Park
+ - Kästner, Erich  - Der kleine Grenzverkehr
+ - Adorno, Theodor W.  - Eine Auswahl
+ - Grave, Christian  - Jane Austen
+ - Wilde, Oscar  - Märchen und Erzählungen
+ - Wilde, Oscar  - Der Kritiker als Künstler und andere Essays
+ - Frisch, Max  - Tagebuch 1946-49 (gebundene Ausgabe)
+ - Bowles, Paul  - Himmel über der Wüste
+ - Mann, Thomas  - Königliche Hoheit
+ - Allen, Woody  - Pure Anarchie
+ - Allen, Woody  - Alles von Allen
+ - Manesse  - Englische Erzähler
+ - Manesse  - Deutsche Aphorismen
+ - Huxley, Aldous  - Eiland
+ - Jung, C.G.  - Worte der Seele
+ - Goethe  - Brevier (Reihe Reclam)
+ - Kafka, Franz  - Meistererzählungen (Manesse)
+ - Walter, Rudolf  - Gelassenwerden
+ - Walter, Rudolf  - Lass dir Zeit
+ - Huxley, Aldous  - Zeit muss enden
+ - Pessoa, Fernando  - Wenn das Herz denken könnte … (Fischer)
+ - Le Guin, Ursula  - Hainish - Drei Romane
+ - Hazelden Medtiationsbücher  - Berührungspunkte
+ - Tomalin, Claire  - Katherine Mansfield - Eine Lebensgeschichte
+ - Mansfield, Katherine  - Sämtliche Erzählungen in fünf Bänden
+ - CD Cold Chisel: East
+ - CD Regine: My Favorite Songs
+ - CD John Cale: Fragments of a Rainy Season
+ - CD Nine Horses: Money For All 
+ - CD Sylvian/Fripp: Damage (2001)
+ - CD Nine Horses: Snow Borne Sorrow
+ - CD Sylvian/Jansen/Barbieri/Karn: Rain Tree Crow 
+ - CD Sylvian/Czukay: Flux + Mutability
+ - CD David Sylvian: Gone To Earth
+ - CD King Crimson: The Power To Believe
+ - CD Fripp and the League of Crafty Guitarists: Intergalactic Boogie Express
+ - CD David Sylvian: Dead Bees on a Cake
+ - CD Sylvian/Fripp: Damage (1994)
+ - CD King Crimson: Beat 
+ - CD King Crimson: Three of a Perfect Pair 
+ - CD King Crimson: Discipline
+ - DVD Into the Wild 
+ - DVD Die Wand 
+ - DVD Der Vorleser
+ - DVD Local Hero 
+ - DVD Der Club der toten Dichter 
+ - DVD Hotel Nooteboom
+ - DVD Der talentierte Mr. Ripley
+ - DVD Die fabelhafte Welt der Amelie 
+ - DVD Batman begins 
+ - DVD Batman. The Dark Knight 2x
+ - DVD A Tribute to Naropa and his Lineage 
+
+# BK 09
+
+ - Maugham, Somerset  - Gesammelte Erzählungen IV  -
+ - Jaspers, Karl  - Einführung in die Philosophie  -
+ - Mann, Thomas  - Gesammelte Werke  -
+ - Jaspers, Karl  - Philosophische Autobiographie  -
+ - Maugham, Somerset  - Books and You  -
+ - Klinghardt, Dietrich  - Lehrbuch der Psycho-Kinesiologie  -
+ - Maugham, Somerset  - Gesammelte Erzählungen III  -
+ - Reich-Ranicki, Marcel  - Mein Schiller  -
+ - Bobert, Sabine  - Jesus Gebet und neue Mystik  -
+ - Reclam  - Kolleg Praktische Philosophie 1-4  -
+ - Reclam  - Anleitung zur Abfassung literaturwissenschaftliche Arbeiten  -
+ - Pessoa, Fernando  - Wenn das Herz denken könnte … (alte Ausgabe)  -
+ - Neues Testament und Psalmen (Ausgabe Schule Altstadt)  -
+ - Fuhrmann, Manfred  - Bildung - Europas kulturelle Identität (Reclam)  -
+ - Goethe  - Sprüche in Reimen  -
+ - Pilgrim, Volker Elis  - Muttersöhne  -
+ - Bly, Robert  - Eisenhans  -
+ - Coupland, Douglas  - Life after God  -
+ - Williams, Tennessee  - Die Nacht des Leguan  -
+ - Miles, Barry  - William S. Burroughs  -
+ - Burroughs, William S.  - Junkie u.a.  -
+ - Bukowski, Charles  - Das Schlimmste kommt noch oder Fast eine Jugend  -
+ - Usher, Shaun  - Speeches of Note
+ - Wackwitz, Stephan  - Die vergessene Mitte der Welt  -
+ - Sauvat, Catherine  - Vergessene Weiten - Eine Robert Walser-Biographie  -
+ - Crespo, Angel  - Fernando Pessoa - Das vervielfältigte Leben  -
+ - Hinton, Brian  - Celtic Crossroads - The Art of Van Morrison  -
+ - Wehr, Gerhard  - Martin Buber. Leben, Werk, Wirkung  -
+
+# BK 10
+
+ - Litt, Theodor  - Naturwissenschaft und Menschenbildung  -
+ - Litt, Theodor  - Technisches Denken und menschliche Bildung  -
+ - Litt, Theodor  - Führen oder Wachsenlassen  -
+ - Litt, Theodor  - Das Bildungsideal der deutschen Klassik und die moderne Arbeitswelt
+ - Litt, Theodor  - Die Philosophie der Gegenwart und ihr Einfluss auf das Bildungsideal 
+ - Litt, Theodor  - Hegel
+ - Litt, Theodor  - Möglichkeiten und Grenzen der Pädagogik
+ - Litt, Theodor  - Denken und Sein
+ - Litt, Theodor  - Mensch und Welt
+ - Litt, Theodor  - Berufsbildung, Fachbildung, Menschenbildung  -
+ - Litt, Theodor  - Wege und Irrwege geschichtlichen Denkens  -
+ - Klafki, Wolfgang  - Die Pädagogik Theodor Litts - Eine kritische Vergegenwärtigung  -
+ - Ritzel, Wolfgang  - Philosophie und Pädagogik im 20. Jahrhundert  -
+ - Kupffer, Heinrich  - Erziehung - Angriff auf die Freiheit  -
+ - Schwiedrzik, Wolfgang Matthias  - Lieber will ich Steine klopfen … - Der Philosoph und Pädagoge Theodor Litt in Leipzig 1933-1947  -
+ - Reble, Albert  - Theodor Litt  -
+ - Cassirer, Ernst  - Idee und Gestalt  -
+ - Benner, Dietrich  - Allgemeine Pädagogik  -
+ - Schlemper, Hans-Otto  - Reflexion und Gestaltungswille - Bildungstheorie, Bildungskritik und Bildungspolitik im Werke von Theodor Litt  -
+ - Schlink, Bernhard  - Der Vorleser  -
+ - Kluge, Norbert (Hrsg.)  - Das pädagogische Verhältnis  -
+ - Da Silva, Kim  - Energie durch Bewegung  -
+ - Adorno, Theodor W.  - Erziehung zur Mündigkeit  -
+ - Bieri, Peter  - Das Handwerk der Freiheit  -
+ - Wallace, David Foster  - Das hier ist Wasser  -
+ - Adorno, Theodor W.  - Minima Moralia  -
+ - Buber, Martin  - Ich und Du  -
+ - Rilke, Rainer Maria  - Gedichte  -
+ - Walser, Robert  - Lektüre für Minuten  -
+ - Rilke, Rainer Maria  - Lektüre für Minuten  -
+ - Schopenhauer, Arthur  - Kleines Schopenhauer Brevier  -
+ - Hesse, Hermann  - Lektüre für Minuten  -
+ - Hehlmann, Wilhelm  - Wörterbuch der Pädagogik  -
+ - Kästner, Erich  - Die Gedichte  -
+ - Dennison, Paul E.  - Brain-Gym  -
+ - Kushi, Michio  - Do-In-Buch  -
+ - da Silva, Kim  - Gesundheit in unseren Händen  -
+ - Frisch, Max  - Leben, ja  -
+ - Réage, Pauline  - Geschichte der O; Rückkehr nach Roissy  -
+ - Dickens, Charles  - Die Pickwickier; Zwei Bände; Rütten und Loening Berlin 1973 
+
+# BK 11
+
+ - Bloom, Harold  - Shakespeare - Die Erfindung des Menschlichen. Komödien und Historien  - 210724  -
+ - Ortega y Gasset, Jose  - Der Aufstand der Massen
+ - Wackwitz, Stephan  - Fifth Avenue  -
+ - Härtling, Peter  - Hölderlin. Ein Roman
+ - Lawrence, D.H.  - Meisternovellen
+ - Walser, Robert  - Das Gesamtwerk I: Fritz Kochers Aufsätze; Geschichten; Aufsätze
+ - Walser, Robert  - Das Gesamtwerk IV: Geschwister Tanner
+ - Walser, Robert  - Das Gesamtwerk V: Der Gehülfe
+ - Walser, Robert  - Das Gesamtwerk VI: Jakob von Gunten- Der Räuber
+ - Walster, Robert  - Das Gesamtwerk VII: Gedichte und Dramolette
+ - Müller, Heiner  - Gesammelte Irrtümer  -
+ - Jünger, Ernst  - Schriften
+ - Grunenberg, Antonia  - Hannah Arendt und Martin Heidegger - Geschichte einer Liebe
+ - Mansfield, Katherine  - Erzählungen und Tagebücher
+ - de Cervantes, Miguel  - Don Quijote
+ - Schwilk, Heimo - Ernst Jünger - Ein Jahrhundertleben  - 210907
+ - Borges, Jorge Luis  - Die unendliche Bibliothek - Erzählungen
+ - Pamuk, Orhan  - Rot ist mein Name  -
+ - Coetzee, J.M.  - Der Meister von Petersburg  -
+ - Mitscherlich, Alexander und Margarete  - Die Unfähigkeit zu trauern
+ - Austen, Jane  - Emma
+ - Austen, Jane  - Vernunft und Gefühl. Manesse
+ - Thoreau, Henry D.  - Walden oder Hüttenleben im Walde. Manesse  - 210907 
+ - Maugham, W. Somerset  - Notizbuch eines Schriftstellers
+ - Lessing, Doris  - Das Doris Lessing Buch
+ - Pavese, Cesare  - Das Handwerk des Lebens  - 200721
+ - Jarman, Derek  - Modern Nature - The Journals of Derek Jarman
+ - Flaubert, Gustave  - Madame Bovary
+ - McCullers, Carson  - Das Herz ist ein einsamer Jäger
+ - Manguel, Alberto  - Eine Geschichte des Lesens
+ - Eno, Brian  - A Year with Swollen Appendices
+ - Eliasberg, Alexander  - Russische Liebesgeschichten
+ - Kästner, Erich  - Das Erich-Kästner-Buch
+ - John Steinbeck  - Jenseits von Eden  - 191913 
+ - John Steinbeck  - Jenseits von Eden  -
+ - Grosch, Annemarie; Kraft, Bernhard  - Mann und Frau - in Ehe, Beruf und überhaupt
+ - Swift, Jonathan  - Gullivers Reisen
+ - Miller, Henry - Wendekreis des Krebses
+ - Miller, Henry - Stille Tage in Clichy
+
+# BK 12
+ - Asimov, Isaac - Alle Wege führen nach Trantor                                                
+ - Asimov, Isaac - Der galaktische General                                                            
+ - Asimov, Issac - Alle Roboter-Geschichten                                                        
+ - Dickens, Charles - Meistererzählungen (Manesse)                                        
+ - Dickens, Charles - Oliver Twist. dtv Dünndruck
+ - Dickens, Charles - Großer Erwartungen. Übersetzung Melanie Walz        
+ - Dickens, Charles - Weihnachtserzählungen                                                       
+ - Huxley, Aldous - Essays I - III   
+ - Huxley, Aldous - Gott ist          
+ - Zöller, Josephine - Das Tao der Selbstheilung; Qi Gong       
+ - Waugh, Evelyn- Helena - 200618       
+ - Wackwitz, Stephan - Neue Menschen - 201002  
+ - Kübler-Ross, Elisabeth - Interviews mit Sterbenden
+ - Williams, William Carlos - Die Romane  
+ - Williams, William Carlos - Die Worte, die Worte, die Worte - Gedichte übertragen von Hans Magnus Enzensberger
+ - Fichte, Hubert - Psyche
+ - Fromm, Erich - Haben oder Sein  
+ - Mansfield, Katherine - Tagebuch 1904 - 1922
+ - Böll, Heinrich - Irisches Tagebuch
+ - Herrndorf, Wolgang - Arbeit und Struktur
+ - Tschechow, Anton - Meisternovellen
+ - Walser, Martin - Meßmers Reisen
+ - Campell, Joseph - Schöpferische Mythologie
+ - Paetzold, Heinz - Ernst Cassirer - Von Marburg nach New York
+ - Wilson, Robert - Tod in Lissabon
+ - Walser, Robert - Romane und Erzählungen 5-6; Erzählungen
+ - Steinbeck, John - Working Days - The Journals of The Grapes of Wrath - 191011
+ - Sterling, Bruce (Hrsg.) - Spiegelschatten - Die große Cyberpunk-Anthologie
+ - Hage, Volker (Hrsg.) - Literarische Collagen 
+ - Schnack, Elisabeth (Hrsg.)   - Irische Erzähler. Manesse
+ - Mann, Thomas - Die Buddenbrooks
+ - Miller, Henry - Big Sur und die Orangen des Hieronymus Bosch
+ - Chaplin, Charles - Die Geschichte meines Lebens
+ - Mann, Klaus - Kind dieser Zeit
+ - MacIntyre, Alasdair - Geschichte der Ethik im Überblick
+ - Sommer, Hartmut - Revolte und Waldgang. Die Dichterphilosophen des 20 Jh.
+ - Delius, Friedrich Christian - Als die Bücher noch geholfen haben
+ - Lessing, Doris - Das goldene Notizbuch - 220612
+ - Haymann, Ronald - Marcel Proust - Die Geschichte seines Lebens - 220518
+ - Miller, Henry - Insomnia        
+ - Miller, Henry - Meine Leben und meine Welt
+ - Miller, Henry - Opus Pistorium      
+ - Nin, Anais - Tagebücher III 1939 - 1944           
+ - Nin, Anais - Tagebücher 1944 - 1947
+ - Dickens, Charles - Die Pickwickier. dtv Dünndruck - 200721   
+
+# BK 13
+
+ - Jens, Walter; Küng, Hans  - Menschenwürdig sterben  - 220104
+ - Asimov, Isaac  - Der Tausendjahresplan
+ - Asimov, Isaac  - Der Zweihundertjährige
+ - Asimov, Isaac  - Das Ende der Ewigkeit
+ - Wallace, David Foster  - Kurze Interviews mit fiesen Männern  - 210724
+ - Zweig, Stefan  - Die schlaflose Welt. Aufsätze und Vorträge aus den Jahren 1909 - 1941
+ - Kästner, Erich  - Der kleine Grenzverkehr
+ - Rosenkranz, Jutta  - Mascha Kaleko - Biografie
+ - Ishiguro, Kazuo  - Alles, was wir geben mussten
+ - Greffrath, Mathias  - Montaigne heute  - 220320
+ - Von Saalfeld, Lerke  - Swetlana Geier - Leben ist Übersetzen
+ - Lec, Stanislaw Jerzy  - Sämtliche unfrisierten Gedanken
+ - Mann, Thomas  - Gesammelte Werke III - Felix Krull, Lotte in Weimar u.a.
+ - John, Johannes  - Goethe Brevier
+ - Walser, Robert  - Lektüre für Minuten
+ - Kafka, Franz  - Brevier
+ - Lichtenberg, Georg Christoph  - Aphorismen (Manesse)
+ - Han, Byung-Chul  - Was ist Macht? (Reclam)
+ - Meister Eckhart  - Vom Wunder der Seele (Reclam)
+ - Erläuterung und Dokumente  - Theodor Fontane - Der Stechlin
+ - Wittgenstein, Ludwig  - Ein Reader
+ - Erläuterung und Dokumente  - Thomas Mann - Der Zauberberg
+ - Reclam Interpretationen  - Thomas Mann - Romane und Erzählungen
+ - Frisch, Max  - Montauk
+ - Brasser, Martin  - Person - Philosophische Texte von der Antike bis zur Gegenwart
+ - Pohl, Manfred  - Japan
+ - Lajtha, Edgar  - Japan. Gestern Heute Morgen
+ - Bollenbeck, Georg  - Eine Geschichte der Kulturkritik
+ - Fontane, Theodor  - Der Stechlin (Ullstein)
+ - Tagsold, Christian  - Japan - Ein Länderportrait
+ - Friedrich, Ilse  - Eine Reise nach Nippon
+ - Blixen, Tania  - Letzte Erzählungen
+ - Fels, Kerstin und Andreas  - Japan - Die Axt im Chrysanthemenwald
+ - Hammermeister, Kai  - Hans-Georg Gadamer
+ - Steinbeck, John  - Tagebuch eines Romans
+ - Garz, Detlef; Kraimer, Klaus  - Die Welt als Text
+ - Didion, Joan  - Sentimentale Reisen; Essays  - 200721
+ - Least Heat Moon, William  - Blue Highways  - 200721
+ - Akin, Terri u.a.  - Selbstvertrauen und soziale Kompetenz
+ - Wallace, David Foster  - Schrecklich amüsant - aber in Zukunft ohne mich
+ - Franzen, Jonathan  - Anleitung zum Alleinsein
+ - Pennac, Daniel  - Wie ein Roman
+ - Lee, Min Lin  - Ein einfaches Leben
+ - Asadowski, Konstantin  - Rilke und Russland  - 220321
+ - Montaigne, Michel de  - Von der Kunst, das Leben zu lieben  - 220320
+ - Christie, Agatha  - Miss Marple Collection (DVD)
+ - Bothe, Henning  - Hölderlin - Zur Einführung  - 220518
+ - Pessoa, Fernando  - Das Buch der Unruhe  - 220518
+ - Walthes, Renate  - Einführung in die Blinden- und Sehbehindertenpädagogik
+ - Oeser, Hans Ludwig  - Japan - Tradition und Gegenwart - Erzählungen und Gedichte 1942  - 220524
+
+# BK 14
+
+ - Miller, Henry - Plexus 
+ - Nooteboom, Cees  - GW 10: Prosa 2008 - 2015 
+ - Rilke, Rainer Maria - Das Stundenbuch 1935 - 220603
+ - Maugham, W. Somerset - Auf Messers Schneide - 220603 
+ - Oz, Amos - Eine Geschichte von Liebe und Finsternis - 220603
+ - Illouz, Eva - Der Konsum der Romantik
+ - Schmid, Wilhelm - Philosophie der Lebenskunst
+ - Krebs, Angelika - Arbeit und Liebe
+ - Montaigne, Michele de - Die Essais      
+ - Frisch, Max - Tagebuch 1946-1949 Taschenbuch
+ - Dürckheim, Karlfried Graf - Hara
+ - Dürckheim, Karlfried Graf - Der Alltag als Übung
+ - Tolstoi, Lew - Anna Karenina (Übersetzung Rosemarie Tietze)  
+ - Dehmel, Richard - Zwei Menschen (1920)
+ - Gundert, Wilhelm u.a. (Hrsg.)  - Lyrik des Osten 
+ - Cicero - Sämtliche Reden - 221129
+ - Eppendorfer, Hans - Der Magnolienkaiser - 221129 
+ - Capote, Truman - Kaltblütig - 221129
+ - Schmidt, Arno - Nachrichten von Büchern und Menschen I - 221129 
+ - Beitmann, Cord - Theodor Fontane (Biografie) - 221129 
+ - Maugham, Somerset M. - Theater - 221129 
+ - Maugham, Somerset M. - Der Magier - 221129 
+ - Marcuse, Ludwig - Ein Panorama europäischen Geistes - 221208
+ - Marcuse, Ludwig - Philosophie des Un-Glücks - Pessimismus als Stadium der Reife - 221208
+ - Marcuse, Ludwig - Obszön - Geschichte einer Entrüstung - 221208
+ - Kesten, Hermann - Mit Geduld kann man sogar das Leben aushalten - Erzählungen - 221208 
+ - Kesten, Hermann - Lauter Literaten - Porträts/Erinnerungen - 221208 
+ - Kesten, Hermann - Die Blaue Blume - 221208 
+ - Piontek, Heinz - Das Handwerk des Lesens - 221208 
+ - Bernhard, Thomas - Wittgensteins Neffe
+ - Lawrence, D.H. - Lady Chatterly
+ - Wilder, Thornton - Die Iden des März
+ - Siegfried Kracauer - Von Caligari bis Hitler                          
+ - Anonyma  - Eine Frau in Berlin
+ - Missfeldt, Jochen - Du graue Stadt am Meer. Der Dichter Theodor Storm in seinem Jahrhundert 
+ - Cartens, Daan  - Der Augenmensch Cees Nooteboom
+ - Nooteboom, Cees - Die Dame mit dem Einhorn  - 211201 
+ - Solschenizyn, Alexander - Der Archipel Gulag
+ - Lawrence, D.H. - Lady Chatterly
+ - Kawabata, Yasunari - Schneeland. Ausgewählte Prosa
+ - Dos Passos, John - Manhattan Transfer
+ - Laxness, Halldor - Das wiedergefundene Paradies
+ -  Forster, E.M. - Auf der Suche nach Indien 
+ -
+ - 
+ 
+# BK Büro
+
+ - Petermann/Petermann  - Training mit Jugendlichen: Förderung von Arbeits- und Sozialverhalten  -
+ - Vollmer/Frohnenberg  - Nachteilsausgleich für behinderte Auszubildende  -
+ - DJI  - Arbeitsweltbezogene Jugendsozialarbeit - Modellversuche zur beruflichen und sozialen Integration von benachteiligten Jugendlichen  -
+ - Brülle u.a.  - Fallmanagement in der Arbeit mit Arbeitslosen - Ein kritischer Leitfaden  -
+ - Bertelsmann Stiftung  - Leitfaden Lokales Übergangsmanagement  -
+ - IPTS  - 88 Impulse zur Gewaltpräventionen  -
+ - Akin, Terri u.a.  - Selbstvertrauen und soziale Kompetenz  -
+ - Munz, Claudio  - Berufsbiografie selbst gestalten - Wie sich Kompetenzen für die Berufslaufbahn entwickeln lassen  -
+ - Hinte, Wolfgang; Karas, Fritz  - Studienbuch Gruppen- und Gemeinwesenarbeit  -
+ - Wendt, Wolf Rainer  - Case Management im Sozial- und Gesundheitswesen - Ein Einführung  -
+ - Sielert, Uwe  - Jungenarbeit - Praxishandbuch für die Jugendarbeit  -
+ - Von Schlippe, Arist; Schweitzer, Jochen  - Lehrbuch der systemischen Therapie und Beratung  -
+ - Menuchin, Salvador  - Familie und Familientherapie  -
+ - Kleve, Heiko u.a.  - Systemisches Case Management  -
+ - Ludewig, Kurt  - Systemische Therapie  -
+ - Boeglin, Martha  - Wissenschaftlich arbeiten Schritt für Schritt  -
+ - Schiersmann, Christiane u.a.  - Qualität und Professionalität in der Bildungs- und Berufsberatung  -
+ - Hammerer, Marika u.a.  - Zukunftsfeld Bildungs- und Berufsberatung  -
+ - Ludewig, Kurt  - Einführung in die theoretischen Grundlagen der systemischen Therapie  -
+ - Schnack, Dieter; Gesterkamp, Thomas  - Hauptsache Arbeit? - Männer zwischen Beruf und Familie  -
+ - Schlüter, Anne  - Bildungsberatung - Eine Einführung für Studierende  -
+ - König, Karl  - Einführung in die psychoanalytische Interventionstechnik  -
+ - Miller/Rollnick  - Motivierende Gesprächsführung  -
+ - Tietze, Kim-Oliver  - Kollegiale Beratung  -
+ - Gudjons, Herbert  - Pädagogisches Grundwissen  -
+ - Böhss/Herkner  - Perspektive Beruf und Beschäftigung  -
+ - Böhm, Winfried  - Wörterbuch der Pädagogik (1994)  -
+ - Koller, Hans-Christoph  - Grundbegriffe, Theorien und Methoden der Erziehungswissenschaft  -
+ - Wolf, Manfred u.a.  - Fachlexikon der sozialen Arbeit  -
+ - Schweitzer, Jochen; Von Schlippe, Arist  - Lehrbuch der systemischen Therapie und Beratung II  -
+ - Hinte, Wolfgang  - Non-direktive Pädagogik  -
+ - Rosengren, David B.  - Arbeitsbuch Motivierende Gesprächsführung  -
+ - Renoldner, Christa u.a.  - Einfach systemisch!  -
+ - Middendorf, Ilse  - Der erfahrbare Atem - Eine Atemlehre  -
+ - Schwing, Rainer; Fryszer, Andreas  - Systemisches Handwerk  -
+ - Wais, Mathias  - BiographieArbeit LebensBeratung - Krisen und Entwicklungschancen des Erwachsenen  -
+ - Hellinger, Bert  - Zweierlei Glück - Konzept und Praxis der systemischen Psychotherapie  -
+ - Schnack, Dieter; Neutzling, Rainer  - Kleine Helden in Not  -
+ - Gudjons, Herbert u.a.  - Auf meinen Spuren  -
+ - Watzlawick, Paul (Hrsg.)  - Die erfundene Wirklichkeit  -
+ - Sennett, Richard  - Der flexible Mensch  -
+ - Frenzel  - Daten deutscher Dichtung  -
+ - Vester, Frederic  - Denken, Lernen, Vergessen  -
+ - Litt, Theodor  - Das Bildungsideal der deutschen Klassik und die moderne Arbeitswelt  -
+ - Bateson, Gregory  - Ökologie des Geistes  -
+ - Hellinger, Bert  - Ordnungen der Liebe  -
+ - Marotzki, Winfried  - Entwurf einer strukturalen Bildungstheorie (Ausdruck)  -
+ - Schnack, Dieter; Neutzling, Rainer  - Kleine Helden in Not  -
+ - Steiner, Rudolf  - Einführung in die Anthroposophie  -
+ - Flick, Uwe  - Qualitative Evaluationsforschung  -
+ - Flick, Uwe  - Qualitative Sozialforschung - Eine Einführung  -
+ - Flick, Uwe; Von Kardoff, Ernst; Steinke, Ines  - Qualitative Forschung - Ein Handbuch  -
+ - Blankertz, Herwig  - Die Geschichte der Pädagogik - Von der Aufklärung bis zur Gegenwart  -
+
+# Abt. Japan
+
+ - Maruyama, Masao  - Denken in Japan  - 220326  -
+ - Suzuki, Daisetz Teitaro  - Erfülltes Leben aus Zen  -
+ - Binder, Alfred  - Mythos Zen  -
+ - Coulmas, Florian  - Das Land der rituellen Harmonie  - 210919  -
+ - Teichler, Kerstin; Teichler, Ulrich  - Der Übergang von der Hochschule in die Berufstätigkeit in Japan  - 211228  -
+ - Stucki, Lorenz  - Japans Herzen denken anders  - 190728  -
+ - Hearn, Lafcadio  - Kokoro  - 201002  -
+ - Keene, Donald  - Japanische Literatur. Eine Einführung für westliche Leser  - 200312 
+ - Kawabata, Yasunari  - Schönheit und Trauer  - 211228  -
+ - Singer, Kurt  - Spiegel, Schwert und Edelstein  - 201002  -
+ - Wackwitz, Stephan  - Tokyo  - 201002  -
+ - Oeser, Hans Ludwig  - Japan - Tradition und Gegenwart - Erzählungen und Gedichte 1942  - 220525  -
+
+# Abt. Lyrik
+
+ - Ausländer, Rose  - Mein Atem heißt jetzt  -
+ - Fried, Erich  - Es ist, was es ist  -
+ - Rilke, Rainer Maria  - Die Gedichte (Insel)  -
+ - Hesse, Hermann  - Die Gedichte (Insel)  -
+ - Brecht, Bertolt  - Die Gedichte (Insel)  -
+ - Dehmel, Richard  - Gedichte (Reclam)  -
+ - Nietzsche, Friedrich  - Gedichte (Reclam)  -
+ - Gernhardt, Robert  - Weiche Ziele  -
+ - Novalis  - Werke in einem Band  -
+ - Rimbaud, Arthur  - Das poetische Werk  -
+ - Ringelnatz, Joachim  - Und auf einmal steht es neben Dir - Gedichte  -
+ -      - Geliebte Verse - Ausgewählte Gedichte 1900-1950  -
+ - Reiners, Ludwig  - Der ewige Brunnen  -
+ - Celan, Paul  - Die Gedichte  -
+ - Lasker-Schüler, Else  - Die Gedichte (Insel)  -
+ - Williams, William Carlos  - Der harte Kern der Schönheit. Gedichte  -
+ - Ausländer, Rose  - Gedichte  -
+ - Neruda, Pablo  - Gedichte  -
+ - Bachmann, Ingeborg  - Gedichte, Erzählungen, Essays  -
+ - Rilke, Rainer Maria  - Werke 1 Gedicht Zyklen  -
+ - Rilke, Rainer Maria  - Werke 2 Gedicht Zyklen  -
+ - Rilke, Rainer Maria  - Gedichte (Reclam)  -
+ - Dickinson, Emily  - Gedichte  -
+ - Trakl, Georg  - Werke - Entwürfe - Briefe  -
+ - Gernhardt, Robert  - Im Glück und anderswo  -
+
+# Abt. Pantheon
+
+ - Sloterdijk, Peter  - Zur Welt kommen - zur Sprache kommen  -
+ - Wallace, David Foster  - Kleines Mädchen mit komischen Haaren  -
+ - Camus, Albert  - Der Mythos von Sysyphos  -
+ - Camus, Albert  - Der Mensch in der Revolte  -
+ - Camus, Albert  - Tagebücher 1935 - 1951  -
+ - Sloterdijk, Peter  - Zeilen und Tage. Notizen 2008-2001  - 200706  -
+ - Sloterdijk, Peter  - Du musst dein Leben ändern  - 200705  -
+ - Sloterdijk, Peter (Hrsg.)  - Mystische Zeugnisse  -
+ - Maugham, W. Somerset  - Gesammelte Erzählungen I-IV  -
+ - Fontane, Theodor  - Der Stechlin. Ullstein
+ - Fontane, Theodor  - Der Stechlin - Erläuterungen und Dokumente  -
+ - McCullers, Carson  - Gesammelte Erzählungen  -
+ - Goethe  - Lektüre für Augenblicke (alt)  -
+ - Benn, Gottfried  - Sämtliche Gedichte  -
+ - Benn, Gottfried  - Künstlerische Prosa  -
+ - Huxley, Aldous  - Philosophia perennis - Die ewige Philosophie  -
+ - Nooteboom, Cees  - Der Laut seines Namens  - 211201  -
+ - Nooteboom, Cees  - Briefe an Poseidon  -
+ - Nooteboom, Cees  - Rituale  - 211201  -
+ - Nooteboom, Cees  - Allerseelen  - 211201  -
+ - Nooteboom, Cees  - Berliner Notizen  - 211201  -
+ - Nooteboom, Cees  - Hotel Nooteboom  - 200618  -
+ - Nooteboom, Cees  - Im Frühling der Tau  - 191214  -
+ - Nooteboom, Cees  - Wie wird man Europäer?  - 200618  -
+ - Safranski, Rüdiger  - Goethe & Schiller  -
+ - Safranski, Rüdiger  - Wieviel Wahrheit braucht der Mensch?  -
+ - Safranski, Rüdiger  - Schopenhauer und Die wilden Jahre der Philosophie  -
+ - Safranski, Rüdiger  - Ein Meister aus Deutschland - Heidegger und seine Zeit  -
+ - Safranski, Rüdiger  - Nietzsche - Biographie seines Denkens  -
+ - Safranski, Rüdiger  - Romantik - Eine deutsche Affäre  -
+ - Safranski, Rüdiger  - Schiller oder die Erfindung des Deutschen Idealismus 
+ - Aristoteles  - Hauptwerke  -
+ - Platon  - Der Staat  -
+ - Platon  - Hauptwerke  -
+ - von Aster, Ernst  - Geschichte der Philosophie  -
+ - Schmitt, Hans -Jürgen (Hrsg.)  - Die deutsche Literatur in Text und Darstellung - Romantik I (Reclam)  -
+ - Goethe  - Wilhelm Meisters Lehrjahre - Erläuterungen und Dokumente  -
+ - Rilke, Rainer Maria  - Malte/Erzählungen (Manesse)  -
+ - Bollenbeck, Georg  - Bildung und Kultur  -
+ - Theweleit, Klaus  - Männerphantasien 1 - Frauen, Fluten, Körper, Geschichte 
+ - Marai, Sandor - Tagebücher 1984-1989
+
+# Abt. Handapparat
+
+ - Nestle, Wilhelm  - Griechische Geistesgeschichte (Kröner)  -
+ - Hiltbrunner, Otto  - Kleines Lexikon der Antike  -
+ - Seneca  - Vom glückseligen Leben  -
+ - **Bildbände**  -      -
+ - Ellis/Seebohm/Sykes  - Mit Büchern leben  -
+ - Taschen, Angelika  - Great Yoga Retreats  -
+ - Fahr-Becker, Gabriele  - Ryokan - Zu Gast im traditionellen Japan  -
+ - Jarman, Derek  - Derek Jarman’s Garden  -
+ - Souter, Gerry  - Edward Hopper - Hell und Dunkel  -
+ - Münsterberg, Hugo  - Der Ferne Osten  -
+ 
+ - **Nachschlagewerke**  -      -
+ - Chamberlain, Basil Hall  - ABC der japanischen Kultur (Things Japanese)  -
+ - Haag, Herbert  - Biblisches Wörterbuch  -
+ - Hearn, Lafcadio  - In einem japanischen Garten  - 201002  -
+ - Schischkoff, Georgi  - Philosophisches Wörterbuch  -
+ - Volpi, Franco  - Lexikon der philosophische Werke  -
+ - Böhm, Winfried  - Wörterbuch der Pädagogik  -
+
+ - Kästner, Erich  - Lyrische Hausapotheke  -
+ - Hermann, Judith  - Nichts als Gespenster  -
+ - Rilke, Rainer Maria  - Mitten im Lesen schreibe ich Dir
+ - Camus, Albert  - Hochzeit des Lichts  -
+ - Camus, Albert  - Der erste Mensch
+ - Pessoa, Fernando  - Wenn das Herz denken könnte  -
+ - Rilke, Rainer Maria  - Lektüre für Minuten  -
+ - Garcia Marquez, Gabriel  - Von der Liebe und anderen Dämonen  -
+ - Herder, Johann Gottfried  - Journal meine Reise im Jahr 1769 (Reclam)  -
+ - Jünger, Ernst  - Siebzig verweht I  - 211005  -
+ - Schimmel, Annemarie  - Berge, Wüsten, Heiligtümer  - 210919  -
+ - Jünger, Ernst  - Das abenteuerliche Herz; Sizilianischer Brief an den Mann im Mond 
+ 
+ - Nooteboom, Cees  - Gedichte  - 211201  -
+ - Nooteboom, Cees  - Der Umweg nach Santiago  - 200320  -
+ - Nooteboom, Cees  - GW 1: Gedichte  - 211203  -
+ - Kaleko, Mascha  - Mein Lied geht weiter. Hundert Gedichte
+ - Rilke, Rainer Maria  - Werke Auswahl in zwei Bände; Erster Band Gedichte  -
+ - Lee, Min Jin  - Ein einfaches Leben  -
+ - Coudenhove, Gerolf  - Japanische Jahreszeiten. Tanka und Haiku aus dreizehn Jahrhunderten  - 211228  -
+ - Günther, Karsten  - Latex Ge-Packt  -
+ - Kopka, Helmut  - Latex Einführung Band 1  -
+ - Pessoa, Fernando  - Das Buch der Unruhe  -
+ - Shonagon, Shei  - Das Kopfkissenbuch der Hofdame Shei Shonogan  -
+ - Gadamer, Hans-Georg  - Über die Verborgenheit der Gesundheit  -
+ - Pessoa, Fernando  - Boca do Inferno - Aleister Crowleys Verschwinden in Portugal
+ - Lao-Tse  - Tao-Te-King (Reclam)
+ - Schmidbauer, Wolfgang  - Die Geheimsprache der Krankheit - Bedeutung und Deutung psychosomatischer Leiden
+ - Flensburger Hefte  - Anthroposophie und Nationalsozialismus
+ - Safranski, Rüdiger  - Das Böse
+ - Aurel, Marc  - Selbstbetrachtungen (Kröner)
+ - Montaigne, Michel de  - Essais (Insel)  - 220402
+ - Schopenhauer  - Aphorismen zur Lebensweisheit (Kröner)
+ - Pessoa, Fernando - Algebra der Geheimnisse - Ein Lesebuch - 220525 
+ - Nooteboom, Cees - Der Ritter ist gestorben - 220525
+ - Nooteboom, Cees - Paradies verloren - 220525
+ - Nooteboom, Cees - Mokusei! - 220525
+ - Nooteboom, Cees - Die Insel, das Land - 220525 
+ - Nooteboom, Cees - Die folgende Geschichte - 220525 
+ - Nooteboom, Cees - Roter Regen - 220525
+ - Mann, Thomas - Adel des Geistes - 220603 
+ - Mann, Thomas - Reden und Aufsätze I - 220603 
+ - Dürckheim, Karlfried Graf - Mein Weg zur Mitte - 220603 
+ - Ahrendt, Hanna - Denktagebücher
